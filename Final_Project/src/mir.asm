@@ -70,9 +70,9 @@ nicht:
 jah:
 	push    dword[arg1] ;puts into the stack the input route
 	call    loadimg ;calls the external function that loads an image
-			;y esta retorna un valor de acuerdo a lo que pase
+			;.. and it returns a value depending on what happens
 	cmp     eax,0   ;whatever that function returns is stored in eax
-		    ;in this case we are checking if it returns 0 = failure
+			;in this case we are checking if it returns 0 = failure
 			;or if returns 1 = success at loading the image
 	jne     success
 	je      fail1   
