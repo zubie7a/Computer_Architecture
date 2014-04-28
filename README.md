@@ -1,5 +1,5 @@
 ##Santiago Zubieta
-####EAFIT University, 201110032010, 2013-2 
+####EAFIT University, 2013-2 
 
 #Computer Architecture Final Project
 A **NASM** program which will call external functions from **OpenCV 2.4.2** (in Ubuntu 12.04) for **C++** and do some calculations for mirroring an image. The act of mirroring is done in respect to the vertical middle axis. This software itself is under the MIT License and done for educational purposes. OpenCV uses the BSD License.
