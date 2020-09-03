@@ -1,7 +1,7 @@
 ## Santiago Zubieta
 #### Universidad EAFIT, 2013-2
 
-# Computer Architecture
+## Computer Architecture
 The **Final Project** for the **Computer Architecture** course was to implement a **NASM** program which will call external functions from **OpenCV 2.4.2** _(in Ubuntu 12.04)_ for **C++** for loading an image into memory, and do some calculations natively in **NASM** for mirroring the image's pixels.
 
 This software itself is under the **MIT License** and done for educational purposes. **OpenCV** uses the **BSD License**.
