@@ -5,13 +5,11 @@
 -Arcade Fire, Reflektor
 
 # Computer Architecture
-The **Final Project** for the **Data Structures and Algorithms I** course was to implement a **NASM** program which will call external functions from **OpenCV 2.4.2** _(in Ubuntu 12.04)_ for **C++** and do some calculations natively in **NASM** for mirroring an image.
-
-The act of mirroring is done in respect to the vertical middle axis.
+The **Final Project** for the **Computer Architecture** course was to implement a **NASM** program which will call external functions from **OpenCV 2.4.2** _(in Ubuntu 12.04)_ for **C++** for loading an image into memory, and do some calculations natively in **NASM** for mirroring the image's pixels.
 
 This software itself is under the **MIT License** and done for educational purposes. **OpenCV** uses the **BSD License**.
 
-#### For example, this is a mirrored picture of my **Universidad EAFIT**'s Library:
+#### A mirrored picture of Universidad EAFIT's Library:
 
 | Original | Mirrored    |
 | --- | --- |
